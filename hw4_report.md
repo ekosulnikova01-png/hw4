@@ -1,3 +1,5 @@
+## Степик
+[сертификат Степик по SQL.pdf](https://github.com/user-attachments/files/34851243/SQL.pdf)
 
 ## Задание 1. Рейсы из Москвы за август
 **Запрос:**
